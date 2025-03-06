@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+package com.smarthome.automation;
+
+/**
+ * 
+ */
+public interface AutomationService {
+
+}

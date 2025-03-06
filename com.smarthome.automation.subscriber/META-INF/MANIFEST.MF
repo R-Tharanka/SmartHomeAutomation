@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Automation Rules Subscriber
+Bundle-SymbolicName: com.smarthome.automation.subscriber
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.smarthome.automation.subscriber.Activator
+Bundle-Vendor: SMARTHOME
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: com.smarthome.automation.subscriber
+Import-Package: org.osgi.framework;version="1.3.0", com.smarthome.automation
+Bundle-ActivationPolicy: lazy
