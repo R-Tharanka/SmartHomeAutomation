@@ -21,6 +21,7 @@ com.googlecode.javaewah.JavaEWAH,1.2.3,file:/C:/eclipse-jee-2024-06-R-win32-x86_
 com.ibm.icu,75.1.0,file:/C:/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/com.ibm.icu_75.1.0.jar,4,true
 com.jcraft.jsch,0.1.55.v20230916-1400,file:/C:/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/com.jcraft.jsch_0.1.55.v20230916-1400.jar,4,true
 com.smarthome.automation,1.0.0.qualifier,file:/D:/work/Year%20-%203/sem%201/sa/group%20project%20workspace/com.smarthome.automation/,4,true
+com.smarthome.automation.subscriber,1.0.0.qualifier,file:/D:/work/Year%20-%203/sem%201/sa/group%20project%20workspace/com.smarthome.automation.subscriber/,4,true
 com.sun.el.javax.el,3.0.4,file:/C:/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/com.sun.el.javax.el_3.0.4.jar,4,true
 com.sun.jna,5.14.0.v20231211-1200,file:/C:/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/com.sun.jna_5.14.0.v20231211-1200/,4,true
 com.sun.jna.platform,5.14.0,file:/C:/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/com.sun.jna.platform_5.14.0.jar,4,true

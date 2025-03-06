@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MySQL Connector
+Bundle-SymbolicName: com.mysql.connector
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: MYSQL
+Bundle-ClassPath: lib/mysql-connector-j-9.2.0.jar, .
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Import-Package: org.osgi.framework, javax.sql, java.sql
+Export-Package: com.mysql.cj.jdbc, javax.sql

@@ -1,0 +1,14 @@
+# Ignore Eclipse project metadata
+.metadata/
+
+# Ignore build files
+bin/
+target/
+
+# Ignore IDE-specific files
+.classpath
+.project
+.settings/
+
+# Ignore OSGi exported JARs
+D:/SA/OSGiBundles/plugins/
